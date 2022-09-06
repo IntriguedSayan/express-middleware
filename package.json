@@ -1,0 +1,26 @@
+{
+  "name": "express-middleware",
+  "version": "1.0.0",
+  "description": "Lecture about express middlewares.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IntriguedSayan/express-middleware.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IntriguedSayan/express-middleware/issues"
+  },
+  "homepage": "https://github.com/IntriguedSayan/express-middleware#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
